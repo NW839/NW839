@@ -10,7 +10,6 @@ Jestem studentem informatyki
 |projekt|opis|link|
 |-------|----|----|
 |Kuchnie świata|Prosty projekt html|https://github.com/NW839/Kuchnie-swiata|
-|Nasa image viewer|Prosty projekt python|https://github.com/NW839/Nasa-image-viewer|
 
 ## Statystyki
 ![Moje statystyki](https://github-readme-stats.vercel.app/api?username=NW839&show_icons=true&theme=midnight-purple)
