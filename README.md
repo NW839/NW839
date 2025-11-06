@@ -1,5 +1,5 @@
 # Hej, z tej strony Nina!
-Jestem studentem
+Jestem studentem informatyki
 
 ## Technologie
 ![Static Badge](https://img.shields.io/badge/python-%233776AB)
