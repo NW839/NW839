@@ -10,4 +10,5 @@ Jestem studentem informatyki
 ![Moje statystyki](https://github-readme-stats.vercel.app/api?username=NW839&show_icons=true&theme=midnight-purple)
 
 ### Kontakt
-[![Static Badge](https://img.shields.io/badge/gmail-EA4335)](https://gmail.com)
+[![Static Badge](https://img.shields.io/badge/gmail-EA4335?style=flat&logoColor=purple&color=purple)
+](https://gmail.com)
